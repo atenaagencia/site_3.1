@@ -50,3 +50,15 @@ p.lead{
 .secular-font{
     font-family: 'Secular One', sans-serif !important;
 }
+
+
+/*bgs*/
+.bg-purple{
+    background-color: purple !important;
+}
+
+/*sections*/
+
+section{
+    padding: 128px 32px !important;
+}

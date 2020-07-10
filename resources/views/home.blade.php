@@ -33,14 +33,11 @@
     </div>
 </header>
 
-<section class="p-5 bg-light mx-auto">
-    <h3 class="display-4 text-dark secular-font p-lg-5 p-md-0 p-sm-0" id="teste_logo">
-        Lorem Ipsum
-    </h3>
-    <p class="lead text-left text-dark py-3 mx-auto p-md-2 p-sm-2">
-        Somos mais que uma agência, somos uma equipe de soluções e resultados completos, 
-        onde diferentes talentos se unem conectando ideias, inspirações e conhecimentos para tocar 
-        as mentes e os corações de consumidores em todas as suas conexões, plataformas e estações.
+<section class="bg-light mx-auto">
+    <p class="lead text-left text-light py-3 mx-auto p-md-2 p-sm-2">
+        A Atena Agência traz para você os melhores profissionais que usarão seus poderes de cavalheiros cibernéticos como: 
+        desenvolvimento web, palestras e treinamentos, marketing e mídias digitais, assessoria de imprensa, design gráfico, 
+        campanhas publicitárias, materiais gráfico e planejamento estratégico.
     </p>
 </section>
 
