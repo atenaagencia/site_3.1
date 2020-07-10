@@ -15,7 +15,7 @@
         top: 0px;
         left: 0px;
         width: 100%;
-        height: 740px;
+        height:700px;
         opacity: 0.5;
     }
 </style>
