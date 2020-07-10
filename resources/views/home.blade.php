@@ -11,6 +11,7 @@
         opacity: 0.1;
     }
     #particulas{
+        z-index: -9999;
         position:absolute;
         top: 0px;
         left: 0px;

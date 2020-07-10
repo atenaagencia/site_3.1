@@ -26,7 +26,7 @@
 
 <body>
     <div id="app">
-       <nav class="navbar navbar-expand-md " style="z-index: 9999"> {{--navbar-light bg-white --}}
+       <nav class="navbar navbar-expand-md "> {{--navbar-light bg-white --}}
             <div class="container-fluid">
                 <a class="navbar-brand py-3" href="{{ url('/') }}">
                     <img src="{{asset('img/logo_atena.png')}}" alt="" width="12%" class="ml-3">
