@@ -1,0 +1,52 @@
+body{
+    background-color: white !important;
+}
+
+li.nav-item a{
+    padding: 8px 16px !important;
+    font-size: 22px !important;
+    color: purple !important;
+}
+
+/*buttons*/
+.btn-purple{
+    background-color: purple !important;
+    color: white;
+}
+.btn-purple:hover{
+    background-color: rgb(42, 42, 42) !important;
+    color: white;
+}
+.btn-outline-purple {
+    color: purple;
+    border-color: purple;
+}
+.btn-outline-purple:hover {
+    color: white;
+    background-color: purple;
+}
+.btn-large{
+    padding: 18px 46px !important;
+}
+
+/*titles*/
+h1{
+    /* font-family: 'Roboto Condensed', sans-serif !important; */
+    font-family: 'Secular One', sans-serif !important;
+}
+.text-purple {
+    color: purple !important;
+}
+p.lead{
+    line-height: 1.6;
+    max-width: 550px;
+    font-weight: 600;
+    color: rgb(42, 42, 42) !important;
+    margin: 10px auto;
+}
+
+/*fonts*/
+
+.secular-font{
+    font-family: 'Secular One', sans-serif !important;
+}
