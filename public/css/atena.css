@@ -61,4 +61,12 @@ p.lead{
 
 section{
     padding: 128px 32px !important;
+
+}
+
+/* footer */
+
+.social-media{
+    padding: 10px;
+    font-size: 2vw;
 }

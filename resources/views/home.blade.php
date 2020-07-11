@@ -51,10 +51,6 @@
     </p>
 </section>
 
-<footer>
-
-</footer>
-
 <script>
     particlesJS("particulas", {
     "particles":{
