@@ -20,6 +20,8 @@
     <!-- <link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@700&display=swap" rel="stylesheet"> -->
     <link href="https://fonts.googleapis.com/css2?family=Secular+One&display=swap" rel="stylesheet">
     <script src="https://use.fontawesome.com/cdd53714a0.js"></script>
+    <script src="https://code.jquery.com/jquery-3.5.1.min.js"
+        integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
 
     <!-- Styles -->
     <link href="{{ asset('css/app.css') }}" rel="stylesheet">
@@ -75,7 +77,7 @@
                         </p>
                     </div>
                     <div class="col d-flex align-items-center justify-content-center">
-                        <img src="{{asset('img/logo_atena_branco.png')}}" alt="" width="25%" class="ml-3">
+                        <img src="{{asset('img/logo_atena_branco.png')}}" alt="" width="18%" class="ml-3">
                     </div>
                     <div class="col d-flex align-items-center justify-content-center">
                         <i class="social-media fa fa-facebook" aria-hidden="true"></i>
