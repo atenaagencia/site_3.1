@@ -35,6 +35,19 @@
     </p>
 </section>
 <section>
+    <div class="text-center pt-3 secular-font">
+        <h2>Depoimentos</h2>
+        <hr class="w-25" style="border: 1px solid purple;">
+    </div>
+    <div class="">
+        <article class="w-50 mx-auto " style="max-width: 75%;">
+            <p>  Google Chrome is a web browser developed by Google, released in 2008. Chrome is the world's most popular web
+                browser today!</p>
+            <p class="text-right"><small>Fulano de Tal</small></p>
+        </article>
+    </div>
+</section>
+<section>
     <div class="text-center pt-3 secular-font"><h2>Alguns de nossos clientes</h2></div>
     
     <div class="carousel" data-flickity='{ "wrapAround": true, "autoPlay": true }'>
@@ -70,6 +83,7 @@
     }
 
     #particulas {
+       
         z-index: -9999;
         position: absolute;
         top: 0px;
@@ -85,7 +99,7 @@
     } */
 
     .carousel-cell {
-        width: 33%;
+        width: 25%;
         max-width: 66%;
         height: 200px;
         margin-right: 10px;
@@ -93,7 +107,7 @@
     }
 
     .carousel-cell img {
-        width: 150px;
+        width: 100px;
         max-width: 66%;
     }
 
