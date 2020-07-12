@@ -82,7 +82,6 @@
                     <div class="col d-flex align-items-center justify-content-center">
                         <i class="social-media fa fa-facebook" aria-hidden="true"></i>
                         <i class="social-media fa fa-instagram" aria-hidden="true"></i>
-                        <i class="social-media fa fa-twitter" aria-hidden="true"></i>
                         <i class="social-media fa fa-whatsapp" aria-hidden="true"></i>
                     </div>
 
