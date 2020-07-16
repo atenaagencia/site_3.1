@@ -57,9 +57,19 @@ p.lead{
     background-color: purple !important;
 }
 
+/*border*/
+.border-purple{
+    border: 1px solid purple !important;
+}
+
 /*sections*/
 
 .section-home{
+    padding: 128px 32px !important;
+
+}
+
+.section-comments{
     padding: 128px 32px !important;
 
 }

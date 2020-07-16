@@ -1,7 +1,6 @@
 @extends('layouts.app')
 <script src="http://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
 
-
 @section('content')
 
 <header class="p-5 mx-auto">
@@ -25,7 +24,7 @@
     </div>
 </header>
 
-<section class="bg-light mx-auto section-home">
+<section class="bg-light section-home">
     <p class="lead text-left text-light py-3 mx-auto p-md-2 p-sm-2">
         A Atena Agência traz para você os melhores profissionais que usarão seus poderes de cavalheiros cibernéticos
         como:
@@ -34,35 +33,45 @@
         campanhas publicitárias, materiais gráfico e planejamento estratégico.
     </p>
 </section>
-<section>
-    <div class="text-center pt-3 secular-font">
-        <h2>Depoimentos</h2>
-        <hr class="w-25" style="border: 1px solid purple;">
+
+<section class="bg-light section-comments">
+    <div class="mx-auto">
+        <p class="secular-font py-3 mx-auto p-md-2 p-sm-2 display-4 lead" style="color: purple !important; font-weight: normal !important">Depoimentos</p>
     </div>
-    <div class="">
-        <article class="w-50 mx-auto " style="max-width: 75%;">
-            <p>  Google Chrome is a web browser developed by Google, released in 2008. Chrome is the world's most popular web
-                browser today!</p>
-            <p class="text-right"><small>Fulano de Tal</small></p>
-        </article>
-    </div>
+    <p class="lead text-left text-light pt-3 py-3 mx-auto p-md-4 p-sm-3 bg-white border-purple border shadow-sm">
+        "A Atena Agência traz para você os melhores profissionais que usarão seus poderes de cavalheiros cibernéticos
+        como:
+        desenvolvimento web, palestras e treinamentos, marketing e mídias digitais, assessoria de imprensa, design
+        gráfico,
+        campanhas publicitárias, materiais gráfico e planejamento estratégico."
+    </p>
+    <p class="lead text-light py-3 mx-auto p-md-2 p-sm-2 mt-3 text-right">
+        <small>Fulano de Tal</small>
+    </p>
 </section>
+
 <section>
     <div class="text-center pt-3 secular-font"><h2>Alguns de nossos clientes</h2></div>
     
     <div class="carousel" data-flickity='{ "wrapAround": true, "autoPlay": true }'>
-        <div class="carousel-cell d-flex align-items-center justify-content-center"> <img
-                src="{{asset('img/logo_atena.png')}}" alt=""></div>
-        <div class="carousel-cell d-flex align-items-center justify-content-center"> <img
-                src="{{asset('img/logo_atena.png')}}" alt=""></div>
-        <div class="carousel-cell d-flex align-items-center justify-content-center"> <img
-                src="{{asset('img/logo_atena.png')}}" alt=""></div>
-        <div class="carousel-cell d-flex align-items-center justify-content-center"> <img
-                src="{{asset('img/logo_atena.png')}}" alt=""></div>
-        <div class="carousel-cell d-flex align-items-center justify-content-center"> <img
-                src="{{asset('img/logo_atena.png')}}" alt=""></div>
-        <div class="carousel-cell d-flex align-items-center justify-content-center"> <img
-                src="{{asset('img/logo_atena.png')}}" alt=""></div>
+        <div class="carousel-cell d-flex align-items-center justify-content-center">
+            <img src="{{asset('img/logo_atena.png')}}" alt="">
+        </div>
+        <div class="carousel-cell d-flex align-items-center justify-content-center"> 
+            <img src="{{asset('img/logo_atena.png')}}" alt="">
+        </div>
+        <div class="carousel-cell d-flex align-items-center justify-content-center"> 
+            <img src="{{asset('img/logo_atena.png')}}" alt="">
+        </div>
+        <div class="carousel-cell d-flex align-items-center justify-content-center"> 
+            <img src="{{asset('img/logo_atena.png')}}" alt="">
+        </div>
+        <div class="carousel-cell d-flex align-items-center justify-content-center"> 
+            <img src="{{asset('img/logo_atena.png')}}" alt="">
+        </div>
+        <div class="carousel-cell d-flex align-items-center justify-content-center"> 
+            <img src="{{asset('img/logo_atena.png')}}" alt="">
+        </div>
     </div>
 </section>
 

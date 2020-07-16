@@ -72,20 +72,18 @@
         <footer class="bg-purple p-3">
             <div class="container-fluid">
                 <div class="row text-center text-white">
-                    <div class="col d-flex align-items-center justify-content-center">
-                        <p class="text-center secular-font" style="font-size: 1.5vw;">Tudo que você precisa em um único lugar.
+                    <div class="col p-3 d-flex align-items-center justify-content-center">
+                        <p class="secular-font" style="font-size: 1.25vw;">Tudo que você precisa em um único lugar.
                         </p>
                     </div>
-                    <div class="col d-flex align-items-center justify-content-center">
-                        <img src="{{asset('img/logo_atena_branco.png')}}" alt="" width="18%" class="ml-3">
+                    <div class="col p-3 d-flex align-items-center justify-content-center">
+                        <img src="{{asset('img/logo_atena_branco.png')}}" alt="" width="12%" class="ml-3">
                     </div>
                     <div class="col d-flex align-items-center justify-content-center">
                         <i class="social-media fa fa-facebook" aria-hidden="true"></i>
                         <i class="social-media fa fa-instagram" aria-hidden="true"></i>
                         <i class="social-media fa fa-whatsapp" aria-hidden="true"></i>
                     </div>
-
-
                 </div>
             </div>
         </footer>
