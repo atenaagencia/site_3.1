@@ -7,9 +7,9 @@
     <div id="particulas"></div>
     <!-- <img src="{{asset('img/logo_atena.png')}}" alt="" width="30%" class="ml-3" style="position: relative; left: -140px; opacity: 0.1;"> -->
     <h1 class="display-3 text-center text-purple p-lg-5 p-md-0 p-sm-0" id="teste">
-        Uma <span class="text-dark">agência</span> diferente.
+        Uma agência <span class="text-dark">diferente</span>.
     </h1>
-    <p class="lead text-center text-dark py-3 mx-auto p-md-2 p-sm-2">
+    <p class="lead montserrat-font text-center text-dark py-3 mx-auto p-md-2 p-sm-2" style="font-size: 15pt !important">
         Somos mais que uma agência, somos uma equipe de soluções e resultados completos,
         onde diferentes talentos se unem conectando ideias, inspirações e conhecimentos para tocar
         as mentes e os corações de consumidores em todas as suas conexões, plataformas e estações.
@@ -24,34 +24,50 @@
     </div>
 </header>
 
-<section class="bg-light section-home">
-    <p class="lead text-left text-light py-3 mx-auto p-md-2 p-sm-2">
+<section class="bg-light section-home" style="background:linear-gradient(0deg, rgba(128, 0, 128, 0.9), rgba(255, 0, 150, 0.3)), url('../img/creative.jpeg') no-repeat center center fixed; backgorund-size: cover">
+    <h1 class="display-3 text-center text-white p-lg-5 p-md-0 p-sm-0">
+        O time mais <span class="text-warning">criativo</span>.
+    </h1>
+    <p class="lead text-center text-white montserrat-font py-3 mx-auto p-md-2 p-sm-2" style="font-size: 17pt !important;">
         A Atena Agência traz para você os melhores profissionais que usarão seus poderes de cavalheiros cibernéticos
-        como:
-        desenvolvimento web, palestras e treinamentos, marketing e mídias digitais, assessoria de imprensa, design
-        gráfico,
-        campanhas publicitárias, materiais gráfico e planejamento estratégico.
+        como: desenvolvimento web, palestras e treinamentos, marketing e mídias digitais, assessoria de imprensa, design
+        gráfico, campanhas publicitárias, materiais gráfico e planejamento estratégico.
     </p>
 </section>
 
+
+<section class="bg-white section-ourjob p-5 text-purple">
+    <h1 class="display-3 text-center p-lg-5 p-md-0 p-sm-0">
+        O que nós <span class="text-info">fazemos</span>.
+    </h1>
+    <p class="lead text-center montserrat-font py-3 mx-auto p-md-2 p-sm-2 mb-5" style="font-size: 17pt !important;">
+        A Atena Agência traz para você os melhores profissionais que usarão seus poderes de cavalheiros cibernéticos
+        como: desenvolvimento web, palestras e treinamentos, marketing e mídias digitais, assessoria de imprensa, design
+        gráfico, campanhas publicitárias, materiais gráfico e planejamento estratégico.
+    </p>
+</section>
+
+
 <section class="bg-light section-comments">
     <div class="mx-auto">
-        <p class="secular-font py-3 mx-auto p-md-2 p-sm-2 display-4 lead" style="color: purple !important; font-weight: normal !important">Depoimentos</p>
+        <p class="secular-font py-3 mx-auto mb-4 p-md-2 p-sm-2 display-4 lead" style="color: purple !important; font-weight: normal !important">Depoimentos</p>
     </div>
-    <p class="lead text-left text-light pt-3 py-3 mx-auto p-md-4 p-sm-3 bg-white border-purple border shadow-sm">
+    <p class="lead text-left text-dark pt-3 py-3 mx-auto p-md-5 p-sm-3 bg-white shadow" style="font-size: 17pt !important; border-top: 8px solid transparent; border-image: url(../img/color.jpeg) 30 stretch;">
         "A Atena Agência traz para você os melhores profissionais que usarão seus poderes de cavalheiros cibernéticos
         como:
         desenvolvimento web, palestras e treinamentos, marketing e mídias digitais, assessoria de imprensa, design
         gráfico,
         campanhas publicitárias, materiais gráfico e planejamento estratégico."
     </p>
-    <p class="lead text-light py-3 mx-auto p-md-2 p-sm-2 mt-3 text-right">
+    <p class="lead text-dark font-weight-bold py-3 mx-auto p-md-2 p-sm-2 mt-3 text-right" style="font-size: 17pt !important;">
         <small>Fulano de Tal</small>
     </p>
 </section>
 
-<section>
-    <div class="text-center pt-3 secular-font"><h2>Alguns de nossos clientes</h2></div>
+<section class="p-5">
+    <div class="mx-auto">
+        <h1 class="lead secular-font py-3 mx-auto p-md-2 p-sm-2 text-purple display-4">Alguns de nossos clientes</h1>
+    </div>
     
     <div class="carousel" data-flickity='{ "wrapAround": true, "autoPlay": true }'>
         <div class="carousel-cell d-flex align-items-center justify-content-center">

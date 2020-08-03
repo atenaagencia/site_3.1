@@ -39,9 +39,15 @@ h1{
 }
 p.lead{
     line-height: 1.6;
-    max-width: 550px;
-    font-weight: 600;
-    color: rgb(42, 42, 42) !important;
+    max-width: 900px;
+    /* font-weight: 600; */
+    color: rgb(42, 42, 42);
+    margin: 10px auto;
+}
+
+h1.lead{
+    line-height: 1.6;
+    max-width: 900px !important;
     margin: 10px auto;
 }
 
@@ -49,6 +55,10 @@ p.lead{
 
 .secular-font{
     font-family: 'Secular One', sans-serif !important;
+}
+
+.montserrat-font{
+    font-family: 'Montserrat', sans-serif;
 }
 
 
@@ -65,7 +75,7 @@ p.lead{
 /*sections*/
 
 .section-home{
-    padding: 128px 32px !important;
+    padding: 88px 32px !important;
 
 }
 
