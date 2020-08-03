@@ -50,18 +50,44 @@
 
 <section class="bg-light section-comments">
     <div class="mx-auto">
-        <p class="secular-font py-3 mx-auto mb-4 p-md-2 p-sm-2 display-4 lead" style="color: purple !important; font-weight: normal !important">Depoimentos</p>
+        <p class="secular-font text-center py-3 mb-5 p-md-2 p-sm-2 display-4 lead" style="color: purple !important; font-weight: normal !important">Depoimentos</p>
     </div>
-    <p class="lead text-left text-dark pt-3 py-3 mx-auto p-md-5 p-sm-3 bg-white shadow" style="font-size: 17pt !important; border-top: 8px solid transparent; border-image: url(../img/color.jpeg) 30 stretch;">
-        "A Atena Agência traz para você os melhores profissionais que usarão seus poderes de cavalheiros cibernéticos
-        como:
-        desenvolvimento web, palestras e treinamentos, marketing e mídias digitais, assessoria de imprensa, design
-        gráfico,
-        campanhas publicitárias, materiais gráfico e planejamento estratégico."
-    </p>
-    <p class="lead text-dark font-weight-bold py-3 mx-auto p-md-2 p-sm-2 mt-3 text-right" style="font-size: 17pt !important;">
-        <small>Fulano de Tal</small>
-    </p>
+    <div class="col-7 mx-auto">
+        <div class="row">
+            <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                <p class="lead text-left text-dark pt-3 py-3 mx-auto p-md-5 p-sm-3 bg-white shadow" style="font-size: 17pt !important; border-top: 8px solid transparent; border-image: url(../img/color.jpeg) 30 stretch;">
+                    Magnam cupiditate omnis praesentium eius hic facere ducimus adipisci voluptatibus iure enim ipsum dignissimos nihil quis ab, nesciunt ipsa recusandae dicta illo.
+                </p>
+                <p class="lead text-dark font-weight-bold py-3 mx-auto p-md-2 p-sm-2 mt-3 text-right" style="font-size: 17pt !important;">
+                    <small>Fulano de Tal</small>
+                </p>
+            </div>
+            <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                <p class="lead text-left text-dark pt-3 py-3 mx-auto p-md-5 p-sm-3 bg-white shadow" style="font-size: 17pt !important; border-top: 8px solid transparent; border-image: url(../img/color.jpeg) 30 stretch;">
+                    Magnam cupiditate omnis praesentium eius hic facere ducimus adipisci voluptatibus iure enim ipsum dignissimos nihil quis ab, nesciunt ipsa recusandae dicta illo.
+                </p>
+                <p class="lead text-dark font-weight-bold py-3 mx-auto p-md-2 p-sm-2 mt-3 text-right" style="font-size: 17pt !important;">
+                    <small>Fulano de Tal</small>
+                </p>
+            </div>
+            <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                <p class="lead text-left text-dark pt-3 py-3 mx-auto p-md-5 p-sm-3 bg-white shadow" style="font-size: 17pt !important; border-top: 8px solid transparent; border-image: url(../img/color.jpeg) 30 stretch;">
+                    Magnam cupiditate omnis praesentium eius hic facere ducimus adipisci voluptatibus iure enim ipsum dignissimos nihil quis ab, nesciunt ipsa recusandae dicta illo.
+                </p>
+                <p class="lead text-dark font-weight-bold py-3 mx-auto p-md-2 p-sm-2 mt-3 text-right" style="font-size: 17pt !important;">
+                    <small>Fulano de Tal</small>
+                </p>
+            </div>
+            <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                <p class="lead text-left text-dark pt-3 py-3 mx-auto p-md-5 p-sm-3 bg-white shadow" style="font-size: 17pt !important; border-top: 8px solid transparent; border-image: url(../img/color.jpeg) 30 stretch;">
+                    Magnam cupiditate omnis praesentium eius hic facere ducimus adipisci voluptatibus iure enim ipsum dignissimos nihil quis ab, nesciunt ipsa recusandae dicta illo.
+                </p>
+                <p class="lead text-dark font-weight-bold py-3 mx-auto p-md-2 p-sm-2 mt-3 text-right" style="font-size: 17pt !important;">
+                    <small>Fulano de Tal</small>
+                </p>
+            </div>
+        </div>
+    </div>
 </section>
 
 <section class="p-5">
