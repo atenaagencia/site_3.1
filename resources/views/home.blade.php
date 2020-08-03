@@ -33,6 +33,11 @@
         como: desenvolvimento web, palestras e treinamentos, marketing e mídias digitais, assessoria de imprensa, design
         gráfico, campanhas publicitárias, materiais gráfico e planejamento estratégico.
     </p>
+    <div class="text-center py-3">
+        <a href="#" class="btn btn-outline-warning rounded-circle secular-font lead navlink" style="padding: 20px;">
+            <i class="fa fa-arrow-down"></i>
+        </a>
+    </div>
 </section>
 
 
@@ -45,6 +50,25 @@
         como: desenvolvimento web, palestras e treinamentos, marketing e mídias digitais, assessoria de imprensa, design
         gráfico, campanhas publicitárias, materiais gráfico e planejamento estratégico.
     </p>
+    <div class="text-center py-3">
+        <a href="#" class="btn btn-purple rounded-circle secular-font lead navlink" style="padding: 20px;">
+            <i class="fa fa-arrow-down"></i>
+        </a>
+    </div>
+</section>
+
+
+<section class="bg-purple section-ourjob p-5 text-light">
+    <p class="lead text-light mt-5 text-center montserrat-font py-3 mx-auto p-md-2 p-sm-2 mb-5" style="font-size: 17pt !important;">
+        A Atena Agência traz para você os melhores profissionais que usarão seus poderes de cavalheiros cibernéticos
+        como: desenvolvimento web, palestras e treinamentos, marketing e mídias digitais, assessoria de imprensa, design
+        gráfico, campanhas publicitárias, materiais gráfico e planejamento estratégico.
+    </p>
+    <div class="text-center py-3">
+        <a href="#" class="btn btn-outline-light rounded-circle secular-font lead navlink" style="padding: 20px;">
+            <i class="fa fa-arrow-down font-weight-bold"></i>
+        </a>
+    </div>
 </section>
 
 
@@ -52,10 +76,10 @@
     <div class="mx-auto">
         <p class="secular-font text-center py-3 mb-5 p-md-2 p-sm-2 display-4 lead" style="color: purple !important; font-weight: normal !important">Depoimentos</p>
     </div>
-    <div class="col-7 mx-auto">
+    <div class="col-lg-7 col-md-7 col-sm-12 mx-auto">
         <div class="row">
             <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-                <p class="lead text-left text-dark pt-3 py-3 mx-auto p-md-5 p-sm-3 bg-white shadow" style="font-size: 17pt !important; border-top: 8px solid transparent; border-image: url(../img/color.jpeg) 30 stretch;">
+                <p class="lead text-left text-dark pt-3 py-3 mx-auto p-md-5 p-sm-3 bg-white shadow-sm" style="font-size: 17pt !important; border-top: 8px solid transparent; border-image: url(../img/color.jpeg) 30 stretch;">
                     Magnam cupiditate omnis praesentium eius hic facere ducimus adipisci voluptatibus iure enim ipsum dignissimos nihil quis ab, nesciunt ipsa recusandae dicta illo.
                 </p>
                 <p class="lead text-dark font-weight-bold py-3 mx-auto p-md-2 p-sm-2 mt-3 text-right" style="font-size: 17pt !important;">
@@ -63,7 +87,7 @@
                 </p>
             </div>
             <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-                <p class="lead text-left text-dark pt-3 py-3 mx-auto p-md-5 p-sm-3 bg-white shadow" style="font-size: 17pt !important; border-top: 8px solid transparent; border-image: url(../img/color.jpeg) 30 stretch;">
+                <p class="lead text-left text-dark pt-3 py-3 mx-auto p-md-5 p-sm-3 bg-white shadow-sm" style="font-size: 17pt !important; border-top: 8px solid transparent; border-image: url(../img/color.jpeg) 30 stretch;">
                     Magnam cupiditate omnis praesentium eius hic facere ducimus adipisci voluptatibus iure enim ipsum dignissimos nihil quis ab, nesciunt ipsa recusandae dicta illo.
                 </p>
                 <p class="lead text-dark font-weight-bold py-3 mx-auto p-md-2 p-sm-2 mt-3 text-right" style="font-size: 17pt !important;">
@@ -71,7 +95,7 @@
                 </p>
             </div>
             <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-                <p class="lead text-left text-dark pt-3 py-3 mx-auto p-md-5 p-sm-3 bg-white shadow" style="font-size: 17pt !important; border-top: 8px solid transparent; border-image: url(../img/color.jpeg) 30 stretch;">
+                <p class="lead text-left text-dark pt-3 py-3 mx-auto p-md-5 p-sm-3 bg-white shadow-sm" style="font-size: 17pt !important; border-top: 8px solid transparent; border-image: url(../img/color.jpeg) 30 stretch;">
                     Magnam cupiditate omnis praesentium eius hic facere ducimus adipisci voluptatibus iure enim ipsum dignissimos nihil quis ab, nesciunt ipsa recusandae dicta illo.
                 </p>
                 <p class="lead text-dark font-weight-bold py-3 mx-auto p-md-2 p-sm-2 mt-3 text-right" style="font-size: 17pt !important;">
@@ -79,7 +103,7 @@
                 </p>
             </div>
             <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-                <p class="lead text-left text-dark pt-3 py-3 mx-auto p-md-5 p-sm-3 bg-white shadow" style="font-size: 17pt !important; border-top: 8px solid transparent; border-image: url(../img/color.jpeg) 30 stretch;">
+                <p class="lead text-left text-dark pt-3 py-3 mx-auto p-md-5 p-sm-3 bg-white shadow-sm" style="font-size: 17pt !important; border-top: 8px solid transparent; border-image: url(../img/color.jpeg) 30 stretch;">
                     Magnam cupiditate omnis praesentium eius hic facere ducimus adipisci voluptatibus iure enim ipsum dignissimos nihil quis ab, nesciunt ipsa recusandae dicta illo.
                 </p>
                 <p class="lead text-dark font-weight-bold py-3 mx-auto p-md-2 p-sm-2 mt-3 text-right" style="font-size: 17pt !important;">

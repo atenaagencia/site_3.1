@@ -72,7 +72,7 @@
         <main class="py-4">
             @yield('content')
         </main>
-        <footer class="bg-purple p-1">
+        <footer class="bg-purple p-1" style="border-top: 13px solid transparent; border-image: url(../img/color.jpeg) 30 stretch;">
             <div class="container-fluid">
                 <div class="row text-center text-white">
                     <div class="col p-3 d-flex align-items-center justify-content-center">
