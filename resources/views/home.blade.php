@@ -59,11 +59,37 @@
 
 
 <section class="bg-purple section-ourjob p-5 text-light">
-    <p class="lead text-light mt-5 text-center montserrat-font py-3 mx-auto p-md-2 p-sm-2 mb-5" style="font-size: 17pt !important;">
-        A Atena Agência traz para você os melhores profissionais que usarão seus poderes de cavalheiros cibernéticos
-        como: desenvolvimento web, palestras e treinamentos, marketing e mídias digitais, assessoria de imprensa, design
-        gráfico, campanhas publicitárias, materiais gráfico e planejamento estratégico.
-    </p>
+    <div class="col-10 mx-auto mt-5 mb-5">
+        <div class="row">
+            <div class="col-md-4 col-sm-12">
+                <h3 class="text-light py-3">Desenvolvimento Web</h3>
+                <div class="list-group rounded-0" style="border: 1px solid; border-top: 8px solid transparent; border-image: url(../img/creative.jpeg) 30 stretch;">
+                    <a href="#" class="list-group-item list-group-item-action text-dark lead bg-white border-0 font-weight-bold montserrat-font">Foco em plataformas online</a>
+                    <a href="#" class="list-group-item list-group-item-action text-light lead bg-transparent border-0">Criação de Sistemas</a>
+                    <a href="#" class="list-group-item list-group-item-action text-light lead bg-transparent border-0">Criação de Websites</a>
+                    <a href="#" class="list-group-item list-group-item-action text-light lead bg-transparent border-0">Criação de Aplicativos</a>
+                </div>
+            </div>
+            <div class="col-md-4 col-sm-12">
+                <h3 class="text-light py-3">Criações Gráficas</h3>
+                <div class="list-group rounded-0" style="border-top: 8px solid transparent; border-image: url(../img/creative.jpeg) 30 stretch;">
+                    <a href="#" class="list-group-item list-group-item-action active lead">Foco em plataformas online</a>
+                    <a href="#" class="list-group-item list-group-item-action text-dark lead font-weight-bold">Criação de Logotipos</a>
+                    <a href="#" class="list-group-item list-group-item-action text-dark lead font-weight-bold">Criação de Cartões de Visita</a>
+                    <a href="#" class="list-group-item list-group-item-action text-dark lead"><span class="font-weight-bold">Criação de Identidade visual</span> (Manuais de Uso e Manual de Marca)</a>
+                </div>
+            </div>
+            <div class="col-md-4 col-sm-12">
+                <h3 class="text-light py-3">Marketing Digital</h3>
+                <div class="list-group rounded-0" style="border-top: 8px solid transparent; border-image: url(../img/creative.jpeg) 30 stretch;">
+                    <a href="#" class="list-group-item list-group-item-action active lead">Foco em plataformas online</a>
+                    <a href="#" class="list-group-item list-group-item-action text-dark lead font-weight-bold">Criação de Sistemas</a>
+                    <a href="#" class="list-group-item list-group-item-action text-dark lead font-weight-bold">Criação de Websites</a>
+                    <a href="#" class="list-group-item list-group-item-action text-dark lead font-weight-bold">Criação de Aplicativos</a>
+                </div>
+            </div>
+        </div>
+    </div>
     <div class="text-center py-3">
         <a href="#" class="btn btn-outline-light rounded-circle secular-font lead navlink" style="padding: 20px;">
             <i class="fa fa-arrow-down font-weight-bold"></i>
