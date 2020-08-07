@@ -57,36 +57,52 @@
     </div>
 </section>
 
-
 <section class="bg-purple section-ourjob p-5 text-light">
     <div class="col-10 mx-auto mt-5 mb-5">
+    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ea odio magni, fugiat eos eveniet sequi quaerat. Animi magni suscipit repellendus veritatis, enim minus sit maxime corrupti debitis sunt nisi consequatur?</p>
+    </div>
+</section>
+
+{{-- <section class="bg-purple section-ourjob p-5 text-light">
+    <div class="col-10 mx-auto mt-5 mb-5">
         <div class="row">
-            <div class="col-md-4 col-sm-12">
-                <h3 class="text-light py-3">Desenvolvimento Web</h3>
-                <div class="list-group rounded-0" style="border: 1px solid; border-top: 8px solid transparent; border-image: url(../img/creative.jpeg) 30 stretch;">
-                    <a href="#" class="list-group-item list-group-item-action text-dark lead bg-white border-0 font-weight-bold montserrat-font">Foco em plataformas online</a>
-                    <a href="#" class="list-group-item list-group-item-action text-light lead bg-transparent border-0">Criação de Sistemas</a>
-                    <a href="#" class="list-group-item list-group-item-action text-light lead bg-transparent border-0">Criação de Websites</a>
-                    <a href="#" class="list-group-item list-group-item-action text-light lead bg-transparent border-0">Criação de Aplicativos</a>
+            <div class="col-md-4 col-sm-12 bg-transparent">
+                <h3 class="text-light py-3">Marketing Digital</h3>
+                <div class="list-group bg-transparent border-light border" style="border-radius: 0px 0px 5px 5px; border-top: 10px solid white !Important">
+                    <a href="#" class="list-group-item list-group-item-action bg-transparent text-light border-0 montserrat-font lead">- Gerenciamento de Redes Sociais</a>
+                    <a href="#" class="list-group-item list-group-item-action bg-transparent text-light border-0 montserrat-font lead">- Assessoria Digital</a>
+                    <a href="#" class="list-group-item list-group-item-action bg-transparent text-light border-0 montserrat-font lead">- SEO</a>
                 </div>
+                <a href="#" class="btn btn-light mt-3 font-weight-bold">ver mais</a>
             </div>
             <div class="col-md-4 col-sm-12">
-                <h3 class="text-light py-3">Criações Gráficas</h3>
-                <div class="list-group rounded-0" style="border-top: 8px solid transparent; border-image: url(../img/creative.jpeg) 30 stretch;">
-                    <a href="#" class="list-group-item list-group-item-action active lead">Foco em plataformas online</a>
+                <h3 class="text-light py-3">Publicidade e Propaganda</h3>
+                <div class="list-group border-0">
+                    <a href="#" class="list-group-item list-group-item-action text-dark lead border-0 font-weight-bold">- Campanha Publicitária</a>
+                    <a href="#" class="list-group-item list-group-item-action text-dark lead border-0 font-weight-bold">- Assessoria de Comunicação</a>
+                    <a href="#" class="list-group-item list-group-item-action text-dark lead border-0 font-weight-bold">- Planejamento Estratégico e Consultoria</a>
+                </div>
+                <a href="#" class="btn btn-light mt-3 font-weight-bold">ver mais</a>
+            </div>
+            <div class="col-md-4 col-sm-12">
+                <h3 class="text-light py-3">Identidade Visual</h3>
+                <div class="list-group">
+                <!-- <div class="list-group" style="border-top: 8px solid transparent; border-image: url(../img/creative.jpeg) 30 stretch;"> -->
+                    
                     <a href="#" class="list-group-item list-group-item-action text-dark lead font-weight-bold">Criação de Logotipos</a>
                     <a href="#" class="list-group-item list-group-item-action text-dark lead font-weight-bold">Criação de Cartões de Visita</a>
-                    <a href="#" class="list-group-item list-group-item-action text-dark lead"><span class="font-weight-bold">Criação de Identidade visual</span> (Manuais de Uso e Manual de Marca)</a>
+                    <a href="#" class="list-group-item list-group-item-action text-dark lead font-weight-bold">Manuais de Uso e Manual de Marca</a>
                 </div>
+                <a href="#" class="btn btn-light mt-3 font-weight-bold">ver mais</a>
             </div>
             <div class="col-md-4 col-sm-12">
-                <h3 class="text-light py-3">Marketing Digital</h3>
-                <div class="list-group rounded-0" style="border-top: 8px solid transparent; border-image: url(../img/creative.jpeg) 30 stretch;">
-                    <a href="#" class="list-group-item list-group-item-action active lead">Foco em plataformas online</a>
+                <h3 class="text-light py-3">Desenvolvimento Web</h3>
+                <div class="list-group">
                     <a href="#" class="list-group-item list-group-item-action text-dark lead font-weight-bold">Criação de Sistemas</a>
                     <a href="#" class="list-group-item list-group-item-action text-dark lead font-weight-bold">Criação de Websites</a>
                     <a href="#" class="list-group-item list-group-item-action text-dark lead font-weight-bold">Criação de Aplicativos</a>
                 </div>
+                <a href="#" class="btn btn-light mt-3 font-weight-bold">ver mais</a>
             </div>
         </div>
     </div>
@@ -95,7 +111,7 @@
             <i class="fa fa-arrow-down font-weight-bold"></i>
         </a>
     </div>
-</section>
+</section> --}}
 
 
 <section class="bg-light section-comments">
