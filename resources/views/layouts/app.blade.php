@@ -33,15 +33,27 @@
 
 <body>
     <div id="app">
+        <div class="row text-center text-white bg-purple pr-5 pl-5">
+            <div class="col d-flex align-items-center justify-content-start secular-font">
+        contato@atenaagencia.com
+       
+            </div>
+            <div class="col d-flex align-items-center justify-content-end">
+                <a href="https://www.facebook.com/atenaagencia" class="text-light" ><i class="social-media fa fa-facebook" aria-hidden="true" style="font-size: 12pt;"></i></a>
+                <a href="https://www.instagram.com/atenaagencia" class="text-light"> <i class="social-media fa fa-instagram"aria-hidden="true" style="font-size: 12pt;"></i><a>
+                <a href="https://wa.me/message/YXV377X54FJDO1" class="text-light"><i class="social-media fa fa-whatsapp" aria-hidden="true" style="font-size: 12pt;"></i><a>
+            </div>
+        
+        </div>
         <nav class="navbar navbar-expand-md "> {{--navbar-light bg-white --}}
             <div class="container-fluid">
                 <a class="navbar-brand py-3" href="{{ url('/') }}">
                     <img src="{{asset('img/logo_atena.png')}}" alt="" width="12%" class="ml-3">
                 </a>
-                <button class="navbar-toggler" type="button" data-toggle="collapse"
+                <button class="navbar-toggler text-purple" type="button" data-toggle="collapse"
                     data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
                     aria-label="{{ __('Toggle navigation') }}">
-                    <span class="navbar-toggler-icon"></span>
+                    <span class="navbar-toggler-icon"> </span>
                 </button>
 
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
@@ -53,9 +65,9 @@
                     <!-- Right Side Of Navbar -->
                     <ul class="navbar-nav ml-auto">
                         <li class="nav-item">
-                            <a class="nav-link" href="#">teste</a>
+                            <a class="nav-link" href="#">Início</a>
                         </li>
-                        <li class="nav-item dropdown">
+                        {{-- <li class="nav-item dropdown">
                             <a id="navbarDropdown" class="nav-link dropdown-toggle" href="#" role="button"
                                 data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" v-pre>
                                 teste <span class="caret"></span>
@@ -63,7 +75,7 @@
                             <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
                                 <a class="dropdown-item" href="#">teste</a>
                             </div>
-                        </li>
+                        </li> --}}
                     </ul>
                 </div>
             </div>
@@ -74,6 +86,7 @@
         </main>
         <footer class="bg-purple p-1" style="border-top: 13px solid transparent; border-image: url(../img/color.jpeg) 30 stretch;">
             <div class="container-fluid">
+                
                 <div class="row text-center text-white">
                     <div class="col p-3 d-flex align-items-center justify-content-center">
                         <p class="secular-font" style="font-size: 14pt !important">Tudo que você precisa em um único lugar.
@@ -82,12 +95,13 @@
                     <div class="col p-3 d-flex align-items-center justify-content-center">
                         <img src="{{asset('img/logo_atena_branco.png')}}" alt="" width="10%" class="ml-3">
                     </div>
-                    <div class="col d-flex align-items-center justify-content-center">
-                        <i class="social-media fa fa-facebook" aria-hidden="true"></i>
-                        <i class="social-media fa fa-instagram" aria-hidden="true"></i>
-                        <i class="social-media fa fa-whatsapp" aria-hidden="true"></i>
+                    <div class="col d-flex align-items-center justify-content-center">      
+                       <p class="secular-font"> 
+                        Rua do Angari, Nº 26, Centro, Juazeiro-BA | (74) 98874-5337</p>
                     </div>
+                 
                 </div>
+                
             </div>
         </footer>
     </div>

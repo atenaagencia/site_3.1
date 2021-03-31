@@ -46,19 +46,19 @@
     </div>
     <div class="container pt-4 pb-0 text-light">
         <!--first line of posts-->
-        <div class="row py-4">
-            <div class="col-md-3">
-                <div class="card h-100 border-0 p-5" style="display: flex; align-items: center; justify-content: center; background: url('https://images.pexels.com/photos/3981477/pexels-photo-3981477.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260') no-repeat center center fixed; background-size: cover;">
+        <div class="row py-2">
+            <div class="col-md-3 mb-2">
+                <div class="card h-100 border-0 p-5" style="display: flex; align-items: center; justify-content: center; background-color: rgb(128,0,128)">
                     <h2 class="montserrat-font">Marketing Digital</h2>
                 </div>
             </div>
-            <div class="col-md-6">
-                <div class="card h-100 border-0 p-5" style="display: flex; align-items: center; justify-content: center; background: url('https://images.pexels.com/photos/3981477/pexels-photo-3981477.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260') no-repeat center center fixed; background-size: cover;">
+            <div class="col-md-6 mb-2">
+                <div class="card h-100 border-0 p-5" style="display: flex; align-items: center; justify-content: center; background-color: rgb(128,0,128)">
                     <h2 class="montserrat-font text-center">Publicidade e Propaganda</h2>
                 </div>
             </div>
-            <div class="col-md-3">
-                <div class="card h-100 border-0 p-5" style="display: flex; align-items: center; justify-content: center; background: url('https://images.pexels.com/photos/3981477/pexels-photo-3981477.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260') no-repeat center center fixed; background-size: cover;">
+            <div class="col-md-3 mb-2">
+                <div class="card h-100 border-0 p-5" style="display: flex; align-items: center; justify-content: center; background-color: rgb(128,0,128)">
                     <h2 class="montserrat-font">Identidade Visual</h2>
                 </div>
             </div>
@@ -66,19 +66,19 @@
 
         <!--second line of posts-->
         <div class="row pb-3">
-            <div class="col-md-4">
-                <div class="card h-100 border-0 p-5" style="display: flex; align-items: center; justify-content: center; background: url('https://images.pexels.com/photos/3981477/pexels-photo-3981477.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260') no-repeat center center fixed; background-size: cover;">
-                    <h2 class="montserrat-font">Lorem Ipsum</h2>
+            <div class="col-md-4 mb-2">
+                <div class="card h-100 border-0 p-5" style="display: flex; align-items: center; justify-content: center; background-color: rgb(128,0,128)">
+                    <h2 class="montserrat-font">Criação de Sites</h2>
                 </div>
             </div>
-            <div class="col-md-6">
-                <div class="card h-100 border-0 p-5" style="display: flex; align-items: center; justify-content: center; background: url('https://images.pexels.com/photos/3981477/pexels-photo-3981477.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260') no-repeat center center fixed; background-size: cover;">
-                    <h2 class="montserrat-font">Desenvolvimento Web</h2>
+            <div class="col-md-6 mb-2">
+                <div class="card h-100 border-0 p-5" style="display: flex; align-items: center; justify-content: center; background-color: rgb(128,0,128)">
+                    <h2 class="montserrat-font">Sistemas e Plataformas</h2>
                 </div>
             </div>
-            <div class="col-md-2">
-                <div class="card h-100 border-0 p-5" style="display: flex; align-items: center; justify-content: center; background: url('https://images.pexels.com/photos/3981477/pexels-photo-3981477.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260') no-repeat center center fixed; background-size: cover;">
-                    <h2 class="montserrat-font">Lorem Ipsum</h2>
+            <div class="col-md-2 mb-2">
+                <div class="card h-100 border-0 p-5" style="display: flex; align-items: center; justify-content: center; background-color: rgb(128,0,128)">
+                    <h2 class="montserrat-font">App's</h2>
                 </div>
             </div>
         </div><!--end second line of posts-->
@@ -99,7 +99,7 @@
 </section>
 
 
-<section class="bg-light section-comments">
+{{-- <section class="bg-light section-comments">
     <div class="mx-auto">
         <p class="secular-font text-center py-3 mb-5 p-md-2 p-sm-2 display-4 lead" style="color: purple !important; font-weight: normal !important">Depoimentos</p>
     </div>
@@ -139,11 +139,12 @@
             </div>
         </div>
     </div>
-</section>
-
-<!-- <section class="p-5">
+</section> --}}
+{{-- 
+ <section class="p-5" style="background-color: rgb(128,0,128)">
+    <div style="background-color: white; border-radius: 30px;">
     <div class="mx-auto">
-        <h1 class="lead secular-font py-3 mx-auto p-md-2 p-sm-2 text-purple display-4">Alguns de nossos clientes</h1>
+        <h1 class="lead secular-font py-3 mx-auto p-md-2 p-sm-2 text-purple display-4 text-center">Alguns de nossos clientes</h1>
     </div>
     <div class="carousel" data-flickity='{ "wrapAround": true, "autoPlay": true }'>
         <div class="carousel-cell d-flex align-items-center justify-content-center">
@@ -165,7 +166,8 @@
             <img src="{{asset('img/logo_atena.png')}}" alt="">
         </div>
     </div>
-</section> -->
+    </div>
+</section>  --}}
 
 
 <link rel="stylesheet" href="https://unpkg.com/flickity@2/dist/flickity.min.css">
